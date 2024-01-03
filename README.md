@@ -24,8 +24,8 @@
 
 ## Informações sobre minha conta GitHub
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielRodri87&show_icons=true&count_private-true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt=Daniel Rodrigues Github Stats" />
-<img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodri87&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JonasCGN&show_icons=true&count_private-true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt=JonasCGN Github Stats" />
+<img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCGN&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JonasCGN&bg_color=0d1117&color=ffffff&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
