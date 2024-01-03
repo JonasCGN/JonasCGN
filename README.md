@@ -6,8 +6,6 @@
 
 ----
 
-[![wakatime](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097.svg)](https://wakatime.com/@591a17b4-1079-44b2-88c8-b4a2e91b5097)
-
 ## 🚀 O que eu já estudei
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
