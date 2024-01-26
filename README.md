@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825cff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa1919&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=f72d2d&vCenter=true&center=true&width=1000&lines=Jonas+CGN;Sistemas+de+Informa%C3%A7ao;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
