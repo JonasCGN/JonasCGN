@@ -45,7 +45,7 @@
 
 ## Wakatime <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[Enter Wakatime ID]&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=825cff&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JonasCGN&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=825cff&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825cff&height=120&section=footer"/>
