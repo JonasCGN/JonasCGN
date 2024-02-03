@@ -37,18 +37,18 @@
 ***Atuando:*** Atualmente na Univerisdade
 ## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
 
-[![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=JonasCGN&bg_color=0d1117&color=dbdbdb&line=fa1919&point=fa1919&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=JonasCGN&bg_color=0d111700&color=dbdbdb&line=fa1919&point=fa1919&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Estatística  <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JonasCGN&show_icons=true&count_private=true&hide_border=true&title_color=fa1919&icon_color=fa1919&text_color=ffffff&bg_color=0d1117" alt="Jonas Cesar Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCGN&layout=compact&hide_border=true&title_color=fa1919&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JonasCGN&show_icons=true&count_private=true&hide_border=true&title_color=fa1919&icon_color=fa1919&text_color=fa1919&bg_color=0d111700" alt="Jonas Cesar Github Stats" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCGN&layout=compact&hide_border=true&title_color=fa1919&text_color=fa1919&bg_color=0d111700" />
 </div>
 
 ## Wakatime <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JonasCGN&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=fa1919&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JonasCGN&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=fa1919&text_color=fa1919&bg_color=0d111700" alt="Wakatime Stats" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa1919&height=120&section=footer"/>
