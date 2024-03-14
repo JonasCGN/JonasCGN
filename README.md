@@ -19,8 +19,8 @@
 
 ## Sobre mim <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
 
-<!-- <img align="left" height="290em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/1ceca206f1e0950b530aad71f0476b22a4fff76a/img.svg"/>
- -->
+<img align="right" height="290em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/card.svg"/>
+ 
 
 ***Nome:*** Jonas Cesar
 
