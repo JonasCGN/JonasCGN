@@ -48,7 +48,7 @@
 
 ## Wakatime <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg">
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JonasCGN&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=fa1919&text_color=fa1919&bg_color=0d11170" alt="Wakatime Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JonasCGN&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=fa1919&text_color=fa1919&bg_color=0d111700" alt="Wakatime Stats" />
 </div>
 
 ## Visitors Count  <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
