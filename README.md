@@ -32,7 +32,7 @@
 
 ***Linguagem Preferida:*** Dart
 
-***Período da Universidade:*** [3/8]
+***Período da Universidade:*** [4/8]
 
 ***Atuando:*** Atualmente na Univerisdade
 ## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
