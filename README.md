@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=50&pause=1000&color=f72d2d&vCenter=true&center=true&width=1000&lines=Jonas+Cesar;Sistemas+de+Informa%C3%A7ao;Universidade+Federal+do+Piau%C3%AD)](https://git.io/typing-svg)
 
-
-<!-- <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/21b583f46eeefcdc62929582932a39191d003350/githubcard.svg"/>
- -->
-
 > **Sistemas De Informação - UFPI, CSHNB**
 
 ## Habilidades <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
@@ -51,7 +47,9 @@
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JonasCGN&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=fa1919&text_color=fa1919&bg_color=0d111700" alt="Wakatime Stats" />
 </div>
 
+<--
 ## Visitors Count  <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
+-->
 
 <div align="center">
   <br>
