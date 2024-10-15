@@ -24,7 +24,7 @@
       <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCGN&layout=compact&hide_border=true&title_color=fa1919&text_color=fa1919&bg_color=0d111700" />
     </div>
     <div align="center">
-      <img width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JonasCGN&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=fa1919&text_color=fa1919&bg_color=0d111700" alt="Wakatime Stats" />
+      <!-- <img width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JonasCGN&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=fa1919&text_color=fa1919&bg_color=0d111700" alt="Wakatime Stats" /> -->
     </div>
   </div>
   
